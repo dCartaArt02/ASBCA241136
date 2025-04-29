@@ -1,0 +1,1 @@
+call insert_nota(1,'Matematicas',9.5);
